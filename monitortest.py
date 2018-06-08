@@ -125,7 +125,7 @@ def get_info():
             pass
 
 if __name__ == '__main__':
-    os.system('title 连通性测试工具，有问题联系：胡尚鹏程')
+    os.system('title 连通性测试工具，有问题联系：XXX')
     os.system('CLS')
     while True:
         try:
